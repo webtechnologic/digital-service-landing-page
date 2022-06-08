@@ -328,6 +328,7 @@ h1{
 .popup__content iframe {
     vertical-align: top;
     height: calc(200px + (400 - 200) * ((100vw - 320px) / (1220 - 320)) );
+    width: 100%;
 }
 
 .close-modal-contact {
