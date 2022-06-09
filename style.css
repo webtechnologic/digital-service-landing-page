@@ -664,6 +664,9 @@ h1{
 
 .wraper-about-us-image img{
     border-radius: 20px;
+    width: auto;
+    height: auto;
+			
 }
 
 .wrapper-ellipse{
