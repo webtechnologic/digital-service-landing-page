@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap'); /* font-family: 'Montserrat', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap'); /* font-family: 'Work Sans', sans-serif; */ 
 
-.wraper-about-us-image{
-        background-size: auto;
-    }
 
 html {
     scroll-behavior: smooth; 
